@@ -10,11 +10,6 @@ No JavaScript. No external libraries or frameworks required.
 [View Demo](https://mithanya.github.io/css-shape-animations/shapes.html)
 
 ---
-
-## Preview
-
-![Demo](demo.gif)
-
 ---
 
 ## Shapes Included
