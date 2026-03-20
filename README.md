@@ -9,9 +9,6 @@ No JavaScript. No external libraries or frameworks required.
 
 [View Demo](https://mithanya.github.io/css-shape-animations/shapes.html)
 
----
----
-
 ## Shapes Included
 
 | Shape | Animation Type |
