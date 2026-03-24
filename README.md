@@ -3,12 +3,6 @@
 A collection of animated geometric shapes built using pure HTML and CSS.
 No JavaScript. No external libraries or frameworks required.
 
----
-
-## Live Demo
-
-[View Demo](https://mithanya.github.io/css-shape-animations/shapes.html)
-
 ## Shapes Included
 
 | Shape | Animation Type |
